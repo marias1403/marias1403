@@ -18,11 +18,12 @@
   <a target="_blank" rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/webpack/webpack-original-wordmark.svg"><img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/webpack/webpack-original-wordmark.svg" title="webpack" alt="webpack" width="40" height="40" style="max-width: 100%;"></a>&nbsp;
   <a target="_blank" rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/webstorm/webstorm-original-wordmark.svg"><img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/webstorm/webstorm-original-wordmark.svg" title="webstorm" alt="webstorm" width="40" height="40" style="max-width: 100%;"></a>&nbsp;
   <a target="_blank" rel="noopener noreferrer" href="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg"><img src="https://github.com/devicons/devicon/raw/master/icons/git/git-original-wordmark.svg" title="Git" width="40" height="40" style="max-width: 100%;"></a>
-</div>
   <a target="_blank" rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/figma/figma-original.svg"><img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/figma/figma-original.svg" title="Figma" alt="Figma" width="40" height="40" style="max-width: 100%;"></a>&nbsp;
+</div>
 
-### ⚡️ Github Stats:
-<img align="left" alt="Maria's GitHub Stats" src="https://github-readme-stats-iota-roan.vercel.app/api?username=marias1403&count_private=true&show_icons=true&theme=dark"/>
-
-### 🏄‍♀️ Most Used Languages:
-<img align="left" alt="Maria's Most Used Languages" src="https://github-readme-stats-iota-roan.vercel.app/api/top-langs/?username=marias1403&layout=compact"/>
+<div>
+  ### ⚡️ Github Stats:
+  <img align="left" alt="Maria's GitHub Stats" src="https://github-readme-stats-iota-roan.vercel.app/api?username=marias1403&count_private=true&show_icons=true&theme=dark"/>
+  ### 🏄‍♀️ Most Used Languages:
+  <img align="left" alt="Maria's Most Used Languages" src="https://github-readme-stats-iota-roan.vercel.app/api/top-langs/?username=marias1403&layout=compact"/>
+</div>
