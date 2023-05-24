@@ -13,3 +13,7 @@
 
 ### ⚡️ Github Stats:
 <img align="left" alt="Maria's GitHub Stats" src="https://github-readme-stats-iota-roan.vercel.app/api?username=marias1403&count_private=true&show_icons=true&theme=dark"/>
+
+### 🏄‍♀️ Most Used Languages:
+
+<img align="left" alt="Maria's Most Used Languages" src="https://github-readme-stats-iota-roan.vercel.app/api/top-langs/?username=marias1403&layout=compact"/>
