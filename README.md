@@ -13,15 +13,3 @@
 
 ### ⚡️ Github Stats:
 <img align="left" alt="Maria's GitHub Stats" src="https://github-readme-stats-iota-roan.vercel.app/api?username=marias1403"/>
-
-<details>
-  <summary>:zap: Github Stats</summary>
-  
-  <img align="left" alt="Maria's GitHub Stats" src="https://github-readme-stats-iota-roan.vercel.app/api?username=marias1403"/>
-
-</details>
-
-<!---
-marias1403/marias1403 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
