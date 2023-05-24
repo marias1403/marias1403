@@ -11,6 +11,9 @@
 - JavaScript
 - React
 
+### ⚡️ Github Stats:
+<img align="left" alt="Maria's GitHub Stats" src="https://github-readme-stats-iota-roan.vercel.app/api?username=marias1403"/>
+
 <details>
   <summary>:zap: Github Stats</summary>
   
