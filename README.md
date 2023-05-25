@@ -1,3 +1,5 @@
+<iframe src="https://giphy.com/embed/y93slPbDMdeXJQONHa" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/ketakuma-takadabear-ketawan-y93slPbDMdeXJQONHa">via GIPHY</a></p>
+
 ## Привет, меня зовут Мария! Я начинающий веб-разработчик 🐣
 - 💪 Стремлюсь работать над классными продуктами
 - 👩‍💻 Пилю pet-проекты и участвую в хакатонах
